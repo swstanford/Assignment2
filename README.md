@@ -13,6 +13,8 @@ In this short analysis, I included:
    > the average cost of each subcohort 
 - A boxplot comparing the cost of patients who had and did not have a cardiac event
 
-In the multivariable logistic regression model of cardiac event against the independent variables (smoking status, sex, and age), I demonstrated that smoking and female sex are significantly associated with cardiac events (odds of smokers are 8 times of that of nonsmokers; odds of male are 11 times of that of female). Age is not significantly associated with cardiac events.  
+In the multivariable logistic regression model of cardiac event against the independent variables (smoking status, sex, and age) (see short_analysis_v2), I demonstrated that smoking and female sex are significantly associated with cardiac events (odds of smokers are 8 times of that of nonsmokers; odds of male are 11 times of that of female). Age is not significantly associated with cardiac events.  
+- In the first regression model, I included cost as an independent variable as well, which was removed in v2, as I did not plan to use it in the final regression model
+
 
 I attest that I did not use generative AI technology (e.g., ChatGPT) to complete any portion of the work. 
